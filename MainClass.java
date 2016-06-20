@@ -12,9 +12,8 @@ public class MainClass
 
         System.out.println("---------Menu---------");
         System.out.println("1. SMS");
-        System.out.println("2. Email");
         System.out.println("3. Exit");
-        System.out.print("\nChoose the option (1/2/3): ");
+        System.out.print("\nChoose the option (1/2): ");
 
         option = sc.nextInt();
 
